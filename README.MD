@@ -1,4 +1,3 @@
-![skydiving.jpeg](attachment:9673d647-98d3-4e86-808c-70956acad956.jpeg)
 
 # Aviation Accident Analysis
 
@@ -12,7 +11,8 @@ The data source used in this project is a data set from the National Transportat
 ## Data Preparation
 To clean the data set, many unnecessary columns were dropped. For example: Accident Number, Event ID, Airport Code, Airport Name, etc did not help with analysis. Some rows and columns with a high percent of missing data were also dropped. The data set is further cleaned by formatting the Date column and standardizing text: caplitalizing the first letter of all words in the Make column.
 
-A smaller, skydiving specific, dataset was used to determine a starting point by looking at commonly reported aircraft Make and Models 
+A smaller dataset was used to determine a starting point by looking at commonly reported aircraft Make and Models specific to skydiving. 
+Then these makes and models were re-examined in a cleaned version of the original dataset. 
 
 # Data Vizualization
 
