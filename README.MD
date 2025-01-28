@@ -36,3 +36,28 @@ Then these makes and models were re-examined in a cleaned version of the origina
 ### Recommendations
 
 ### Next Steps
+
+### Next Steps
+
+Further analyses could yield additional insights to further improve operations at AAC:
+
+- **Better prediction of animals that are likely to have long stays.** This modeling could use already available data, such as breed and intake condition.
+- **Model need for medical support.** This modeling could predict the need for specialized personnel to address animals' medical needs, including neutering, using intake condition and sex data.
+- **Predicting undesirable outcomes.** This modeling could identify animals that are more likely to have undesirable outcomes (e.g. Euthanasia) for targeted medical support or outreach.
+
+## For More Information
+
+See the full analysis in the [Jupyter Notebook](./animal-shelter-needs-analysis.ipynb) or review this [presentation](./Animal_Shelter_Needs_Presentation.pdf).
+
+For additional info, contact Alison Peebles Madigan at [alison.peeblesmadigan@flatironschool.com](mailto:alison.peeblesmadigan@flatironschool.com)
+
+![logo](./images/aac_logo_tall.jpg)
+
+## Repository Structure
+
+```
+├── data
+├── images
+├── README.md
+├── Animal_Shelter_Needs_Presentation.pdf
+└── animal_shelter_needs_analysis.ipynb
