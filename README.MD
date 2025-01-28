@@ -17,8 +17,11 @@ A smaller portion of the dataset was used to determine a starting point by looki
 
 Then these makes and models were re-examined in a cleaned version of the original dataset. 
 
-![accidents over time](./vizualizations/stay_lengths_by_type.png)
+![accidents by year](images/visualizations/accidents.by.year.png)
 
+![top sky makes](images/visualizations/top.sky.makes.png)
+
+![top sky models](images/visualizations/top.sky.models.png)
 
 ## Conclusion
 
