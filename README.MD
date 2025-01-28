@@ -23,6 +23,11 @@ Then these makes and models were re-examined in a cleaned version of the origina
 
 ![top sky models](images/visualizations/top.sky.models.png)
 
+![engine fatality](images/visualizations/enginefatality.png
+
+![percent fatality](images/visualizations/percent.fatality.png)
+
+![percent uninjured](images/visualizations/percent.uninjured.png)
 ## Conclusion
 
 ### Limitations
