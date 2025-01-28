@@ -1,9 +1,6 @@
 # Data
 /data
 
-#Visualizations
-/visualizations
-
 # Junk Files
 .DS_Store
 .ipynb_checkpoints

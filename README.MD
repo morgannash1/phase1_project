@@ -10,14 +10,14 @@ This project aims to determine which planes would be best to look into first for
 The data source used in this project is a data set from the National Transportation Safety Board with specifics about US aviation accidents between 1962 through 2023. There are over 90,000 records of specific accidents with 31 columns of information telling location, date, aircraft make, aircraft model, number of engines, total fatal injuries, total uninjured, etc. 
 
 
-### Data Preparation
+### Data Preparation & Analysis
 To clean the data set, many unnecessary columns were dropped. For example: Accident Number, Event ID, Airport Code, Airport Name, etc did not help with analysis. Some rows and columns with a high percent of missing data were also dropped.
 
 A smaller portion of the dataset was used to determine a starting point by looking at commonly reported aircraft Make and Models specific to skydiving. 
 
 Then these makes and models were re-examined in a cleaned version of the original dataset. 
 
-## Exploratory Data Analysis
+![accidents over time](./vizualizations/stay_lengths_by_type.png)
 
 
 ## Conclusion
