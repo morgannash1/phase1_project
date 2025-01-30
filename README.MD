@@ -50,7 +50,7 @@ The largest limitation of this data set is that we only have the data for accide
 
 
 ### Next Steps
-When it comes to aircrafts that will be used for Skydiving, there are many other important features not included in the Aviation Accident Dataset. A few of these that should be considered next include: how fast the aircraft can climb to reach desired elevation for jumping, safety features related to the exit doors, cost of the aircrafts, aircraft speed, and passenger capacity.
+When it comes to aircrafts that will be used for Skydiving, there are many other important features not included in the Aviation Accident Dataset. A few of these that should be considered next include: **how fast the aircraft can climb to reach desired elevation for jumping** , **safety features related to the exit doors** , **cost of the aircrafts** , **aircraft speed** , and **passenger capacity** .
 
 ## For More Information
 
