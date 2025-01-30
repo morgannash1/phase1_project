@@ -19,14 +19,17 @@ Then these makes and models were re-examined in a cleaned version of the origina
 
 ### Visualizations & Findings: 
 ![accidents by year](images/visualizations/accidents.by.year.png)
-(Note: Many accidents between the years of 2001 and 2006 were dropped while cleaning the dataset)
+
+**Note**: Many accidents between the years of 2001 and 2006 were dropped while cleaning the dataset
 
 ![top sky makes](images/visualizations/top.sky.makes.png)
+
 We see the top reported aircraft Makes for skydiving specific accidents, with Cessna clearly as the top reported.
 
 ![top sky models](images/visualizations/top.sky.models.png)
 
 ![engine fatality](images/visualizations/enginefatality.png)
+
 Here we see 2 key points. First, we see that Cessna has many more accidents reported where people were uninjured as compared to Beech. We also see that this is more specifically true for Cessna aircrafts with 1 engine.
 
 ![percent fatality](images/visualizations/percent.fatality.png)
