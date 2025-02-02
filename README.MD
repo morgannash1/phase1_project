@@ -62,7 +62,8 @@ Interact with the visualizations in [Tableau](https://public.tableau.com/app/pro
 
 ```
 ├── images
-├── README.md
-├── Presentation.pdf
+├── README.MD
+├── aviation.accidents.presentation.pdf
 └── aviationaccidentanalysis.ipynb
+
 ```
